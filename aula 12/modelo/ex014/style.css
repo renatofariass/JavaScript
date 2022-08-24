@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(140, 140, 255);
+    font: normal 15pt arial;
+
+
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 18px rgba(0, 0, 0, 0.24);
+}
+
+div{
+    text-align: center;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#imagem{
+    border-radius: 150px;
+}
+
+
+footer {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 198px;
+
+
+}
